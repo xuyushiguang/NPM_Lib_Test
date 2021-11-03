@@ -1,7 +1,7 @@
 
 Pod::Spec.new do |s|
   s.name         = "RNAppLibTest"
-  s.version      = "1.0.0"
+  s.version      = "1.0.1"
   s.summary      = "RNAppLibTest"
   s.description  = <<-DESC
                   RNAppLibTest
