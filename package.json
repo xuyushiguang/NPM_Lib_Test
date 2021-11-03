@@ -1,7 +1,7 @@
 
 {
   "name": "react-native-app-lib-yxy",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "npm 测试 发布",
   "main": "OneKeyLogin.js",
   "scripts": {
@@ -10,11 +10,15 @@
   "files": [
     "/ios"
   ],
+  "repository": {
+    "type": "git",
+    "url": "git@github.com/xuyushiguang/NPM_Lib_Test.git"
+  },
   "keywords": [
     "react-native"
   ],
   "author": "yxy",
-  "license": "",
+  "license": "MIT",
   "peerDependencies": {
     "react": "17.0.1",
     "react-native": ">=0.64.0"
