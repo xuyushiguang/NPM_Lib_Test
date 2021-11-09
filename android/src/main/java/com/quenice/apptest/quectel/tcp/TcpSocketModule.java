@@ -1,4 +1,4 @@
-package com.quectel.tcp;
+package com.quenice.apptest.quectel.tcp;
 
 
 import android.annotation.SuppressLint;

@@ -1,4 +1,4 @@
-package com.quectel.ucp;
+package com.quenice.apptest.quectel.ucp;
 
 import androidx.annotation.Nullable;
 import android.util.Base64;

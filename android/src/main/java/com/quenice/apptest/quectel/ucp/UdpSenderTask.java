@@ -5,7 +5,7 @@
  *  Created by Andy Prock on 9/24/15.
  */
 
-package com.quectel.ucp;
+package com.quenice.apptest.quectel.ucp;
 
 import android.os.AsyncTask;
 

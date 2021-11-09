@@ -1,4 +1,4 @@
-package com.quectel.ucp;
+package com.quenice.apptest.quectel.ucp;
 
 import android.content.Context;
 import android.net.wifi.WifiManager;
