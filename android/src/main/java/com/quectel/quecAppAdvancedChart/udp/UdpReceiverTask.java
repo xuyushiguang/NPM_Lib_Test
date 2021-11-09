@@ -1,4 +1,4 @@
-package com.quenice.apptest.udp;
+package com.quectel.quecAppAdvancedChart.udp;
 
 import android.util.Base64;
 

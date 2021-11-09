@@ -1,4 +1,4 @@
-package com.quenice.apptest.tcp;
+package com.quectel.quecAppAdvancedChart.tcp;
 
 import com.facebook.react.bridge.ReadableMap;
 

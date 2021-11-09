@@ -1,4 +1,4 @@
-package com.quenice.apptest.tcp;
+package com.quectel.quecAppAdvancedChart.tcp;
 
 
 import android.annotation.SuppressLint;
