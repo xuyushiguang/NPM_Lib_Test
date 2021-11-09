@@ -1,4 +1,4 @@
-package com.quenice.apptest.quectel.ucp;
+package com.quenice.apptest;
 
 import android.util.Base64;
 

@@ -18,9 +18,6 @@ import java.util.ArrayList;
 import java.util.Collections;
 import java.util.List;
 
-import com.quenice.apptest.quectel.tcp.TcpSocketModule;
-import com.quenice.apptest.quectel.ucp.UdpSockets;
-
 public final class QuecAppSocketsModule implements ReactPackage {
 
     @Override

@@ -5,7 +5,7 @@
  *  Created by Andy Prock on 9/24/15.
  */
 
-package com.quenice.apptest.quectel.ucp;
+package com.quenice.apptest;
 
 import javax.annotation.Nullable;
 
