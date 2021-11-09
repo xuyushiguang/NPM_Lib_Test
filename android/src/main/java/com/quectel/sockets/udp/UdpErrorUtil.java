@@ -5,7 +5,7 @@
  *  Created by Andy Prock on 9/24/15.
  */
 
-package com.quectel.quecAppAdvancedChart.udp;
+package com.quectel.sockets.udp;
 
 import javax.annotation.Nullable;
 

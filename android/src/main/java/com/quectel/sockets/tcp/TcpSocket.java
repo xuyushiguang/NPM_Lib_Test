@@ -1,4 +1,4 @@
-package com.quectel.quecAppAdvancedChart.tcp;
+package com.quectel.sockets.tcp;
 
 public class TcpSocket {
     private final int id;

@@ -5,7 +5,7 @@
  *  Created by Andy Prock on 9/24/15.
  */
 
-package com.quectel.quecAppAdvancedChart;
+package com.quectel.sockets;
 
 
 import com.facebook.react.ReactPackage;
@@ -13,8 +13,8 @@ import com.facebook.react.bridge.JavaScriptModule;
 import com.facebook.react.bridge.NativeModule;
 import com.facebook.react.bridge.ReactApplicationContext;
 import com.facebook.react.uimanager.ViewManager;
-import com.quectel.quecAppAdvancedChart.tcp.TcpSocketModule;
-import com.quectel.quecAppAdvancedChart.udp.UdpSockets;
+import com.quectel.sockets.tcp.TcpSocketModule;
+import com.quectel.sockets.udp.UdpSockets;
 
 import java.util.ArrayList;
 import java.util.Collections;

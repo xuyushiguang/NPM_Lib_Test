@@ -1,4 +1,4 @@
-package com.quectel.quecAppAdvancedChart.udp;
+package com.quectel.sockets.udp;
 
 import androidx.annotation.Nullable;
 import android.util.Base64;
@@ -16,7 +16,7 @@ import java.net.UnknownHostException;
 import java.util.Map;
 import java.util.concurrent.ConcurrentHashMap;
 
-import static com.quectel.quecAppAdvancedChart.udp.UdpSenderTask.OnDataSentListener;
+import static com.quectel.sockets.udp.UdpSenderTask.OnDataSentListener;
 
 /**
  * Client class that wraps a sender and a receiver for UDP data.

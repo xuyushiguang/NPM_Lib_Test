@@ -1,4 +1,4 @@
-package com.quectel.quecAppAdvancedChart.udp;
+package com.quectel.sockets.udp;
 
 import android.util.Base64;
 
