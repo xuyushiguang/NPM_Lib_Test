@@ -14,8 +14,6 @@ Pod::Spec.new do |s|
   s.source       = { :git => "https://github.com/xuyushiguang/NPM_Lib_Test.git", :tag => "master" }
   s.source_files  = "ios/**/*.{h,m}"
   s.requires_arc = true
-  s.preserve_paths = 'ios/**/TYRZUISDK.framework'
-  s.resources = ['ios/**/*.png']
 
   s.dependency "React"
   #s.dependency "others"
