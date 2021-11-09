@@ -16,7 +16,7 @@ import java.net.UnknownHostException;
 import java.util.Map;
 import java.util.concurrent.ConcurrentHashMap;
 
-import static com.quectel.ucp.UdpSenderTask.OnDataSentListener;
+import static com.quenice.apptest.quectel.ucp.UdpSenderTask.OnDataSentListener;
 
 /**
  * Client class that wraps a sender and a receiver for UDP data.

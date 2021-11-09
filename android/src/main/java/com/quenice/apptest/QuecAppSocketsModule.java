@@ -5,7 +5,7 @@
  *  Created by Andy Prock on 9/24/15.
  */
 
-package com.quenice.apptest.quectel;
+package com.quenice.apptest;
 
 
 import com.facebook.react.ReactPackage;
