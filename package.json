@@ -1,7 +1,7 @@
 
 {
   "name": "react-native-app-lib-yxy",
-  "version": "1.0.9",
+  "version": "1.1.0",
   "description": "npm 测试 发布",
   "main": "OneKeyLogin.js",
   "scripts": {
@@ -9,8 +9,7 @@
   },
   "files": [
     "/ios",
-    "/OneKeyLogin.js",
-    "/*.podspec"
+    "/OneKeyLogin.js"
   ],
   "repository": {
     "type": "git",
