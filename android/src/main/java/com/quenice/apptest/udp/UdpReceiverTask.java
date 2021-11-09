@@ -1,4 +1,4 @@
-package com.quenice.apptest;
+package com.quenice.apptest.udp;
 
 import android.util.Base64;
 

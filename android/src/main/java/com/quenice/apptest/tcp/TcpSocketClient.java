@@ -1,4 +1,4 @@
-package com.quenice.apptest;
+package com.quenice.apptest.tcp;
 
 import android.content.Context;
 import android.net.Network;

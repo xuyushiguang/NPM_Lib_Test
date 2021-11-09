@@ -1,4 +1,4 @@
-package com.quenice.apptest;
+package com.quenice.apptest.tcp;
 
 public class TcpSocket {
     private final int id;

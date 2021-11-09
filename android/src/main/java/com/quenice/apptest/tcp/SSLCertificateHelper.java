@@ -1,4 +1,4 @@
-package com.quenice.apptest;
+package com.quenice.apptest.tcp;
 
 import android.annotation.SuppressLint;
 import android.content.Context;

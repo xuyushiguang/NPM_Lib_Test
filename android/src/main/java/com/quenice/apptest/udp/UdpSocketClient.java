@@ -1,4 +1,4 @@
-package com.quenice.apptest;
+package com.quenice.apptest.udp;
 
 import androidx.annotation.Nullable;
 import android.util.Base64;
@@ -16,7 +16,7 @@ import java.net.UnknownHostException;
 import java.util.Map;
 import java.util.concurrent.ConcurrentHashMap;
 
-import static com.quenice.apptest.UdpSenderTask.OnDataSentListener;
+import static com.quenice.apptest.udp.UdpSenderTask.OnDataSentListener;
 
 /**
  * Client class that wraps a sender and a receiver for UDP data.
