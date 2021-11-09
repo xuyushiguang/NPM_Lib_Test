@@ -1,4 +1,4 @@
-package com.QuectelSockets.TCP;
+package com.quectel.tcp;
 
 import android.annotation.SuppressLint;
 import android.content.Context;

@@ -1,4 +1,4 @@
-package com.QuectelSockets.TCP;
+package com.quectel.tcp;
 
 public class TcpSocket {
     private final int id;

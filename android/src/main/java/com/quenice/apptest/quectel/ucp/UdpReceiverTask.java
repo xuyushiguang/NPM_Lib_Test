@@ -1,4 +1,4 @@
-package com.QuectelSockets.UDP;
+package com.quectel.ucp;
 
 import android.util.Base64;
 

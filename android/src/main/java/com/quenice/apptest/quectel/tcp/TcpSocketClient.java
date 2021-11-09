@@ -1,4 +1,4 @@
-package com.QuectelSockets.TCP;
+package com.quectel.tcp;
 
 import android.content.Context;
 import android.net.Network;

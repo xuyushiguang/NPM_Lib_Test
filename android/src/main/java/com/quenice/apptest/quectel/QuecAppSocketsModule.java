@@ -5,7 +5,7 @@
  *  Created by Andy Prock on 9/24/15.
  */
 
-package com.QuectelSockets;
+package com.quectel;
 
 
 import com.facebook.react.ReactPackage;
@@ -18,8 +18,8 @@ import java.util.ArrayList;
 import java.util.Collections;
 import java.util.List;
 
-import com.QuectelSockets.TCP.TcpSocketModule;
-import com.QuectelSockets.UDP.UdpSockets;
+import com.quectel.tcp.TcpSocketModule;
+import com.quectel.ucp.UdpSockets;
 
 public final class QuecAppSocketsModule implements ReactPackage {
 

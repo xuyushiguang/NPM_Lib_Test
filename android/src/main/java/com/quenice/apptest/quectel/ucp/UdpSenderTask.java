@@ -5,7 +5,7 @@
  *  Created by Andy Prock on 9/24/15.
  */
 
-package com.QuectelSockets.UDP;
+package com.quectel.ucp;
 
 import android.os.AsyncTask;
 
